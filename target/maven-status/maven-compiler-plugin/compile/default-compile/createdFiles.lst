@@ -1,0 +1,6 @@
+com\example\App.class
+com\example\AbstractJavaFxApplicationSupport.class
+com\example\components\SinChartComponent.class
+com\example\components\MainLayout.class
+com\example\AppPreloader.class
+com\example\components\HelloWorldComponent.class
